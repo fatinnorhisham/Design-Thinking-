@@ -21,3 +21,7 @@ I will apply these lessons by:
 - Preparing for real-world roles such as **Network Engineer, Security Analyst, or System Administrator** by balancing technical expertise with user-centered thinking.
 
 ---
+## Link for report :
+https://drive.google.com/file/d/1vI2WDk7z1VdLEaVe7vmhkmqy9PU-4j-W/view?usp=sharing <br>
+## Link for video presentation :
+https://youtu.be/zyCBFD1y7PA
