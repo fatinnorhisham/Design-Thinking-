@@ -21,5 +21,3 @@ I will apply these lessons by:
 - Preparing for real-world roles such as **Network Engineer, Security Analyst, or System Administrator** by balancing technical expertise with user-centered thinking.
 
 ---
-
-This reflection represents not only the technical journey but also the mindset shift towards **empathetic, practical, and collaborative problem-solving**.
